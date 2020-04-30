@@ -1,5 +1,5 @@
 # Attendance
- This is an Attendance app for marking an viewing attendance developed with flutter and firebase. The Product has two parts 1) A NodeJS script which act as a dummy enrollment server, 2) A Flutter app for both Android and IOS. Implemented RBAC for the app with three roles such as student, staff and admin each having their own access permissions.
+ This is an Attendance app for marking an viewing attendance developed with flutter and firebase. The Product has two parts 1) A [NodeJS script](script/app.js) which act as a dummy enrollment server, 2) A Flutter app for both Android and IOS. Implemented RBAC for the app with three roles such as student, staff and admin each having their own access permissions.
 
 # Screenshots
 <div>
